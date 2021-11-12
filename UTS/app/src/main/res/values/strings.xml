@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Menu Makanan</string>
+
+
+    <string-array name="menu_makanan">
+        <item>Gado-Gado</item>
+        <item>Kwetiau Goreng</item>
+        <item>Nasi Goreng</item>
+        <item>Rawon</item>
+        <item>Nasi Ayam Bakar</item>
+        <item>Nasi Ayam Geprek</item>
+    </string-array>
+
+    <string-array name="price">
+        <item>Rp. 12.000</item>
+        <item>Rp. 10.000</item>
+        <item>Rp. 13.000</item>
+        <item>Rp. 22.000</item>
+        <item>Rp. 21.000</item>
+        <item>Rp. 11.000</item>
+    </string-array>
+
+    <string-array name="deskripsi">
+        <item>Gado-gado adalah Salah satu makanan yang berasal dari Indonesia, yang terdiri dari sayur-sayuran yang direbus dan dicampur jadi satu, dengan bumbu kacang atau saus dari kacang tanah disertai irisan telur kemudian di atasnya ditaburi bawang goreng dan kerupuk.</item>
+        <item>Kwetiau Goreng adalah salah satu makanan yang dibuat dengan bahan utama kwetiau ditumis dalam minyak goreng dengan bawang putih, bawang merah, daging ayam, udang goreng, atau irisan bakso, cabai, sawi putih, sawi, tomat, telur, dengan ditambah kecap manis.</item>
+        <item>Nasi Goreng adalah salah satu makanan yang dibuat dengan bahan utama nasi yang digoreng menggunakan minyak goreng serta ditambah dengan telur, irisan bakso, daging ayam, dengan digoreng menggunakan kecap manis.</item>
+        <item>Rawon adalah Salah satu makanan yang berasal dari Indonesia, berupa sup daging berkuah hitam dengan campuran bumbu khas yang menggunakan kluwek.</item>
+        <item>Nasi Ayam Bakar adalah Salah satu makanan yang terdiri nasi dengan ayam yang dibakar diatas arang serta dilengkapi dengan sambal tomat.</item>
+        <item>Nasi Ayam Geprek adalah Salah satu makanan yang terdiri dari nasi dengan ayam yang berlapis tepung tipis dan digoreng. Kemudian, ayam ini akan digeprek atau di dihancurkan dan dicampur dengan sajian sambal bawang.</item>
+    </string-array>
+</resources>
