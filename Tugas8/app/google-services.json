@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "17368644560",
+    "project_id": "ellaproject-47e86",
+    "storage_bucket": "ellaproject-47e86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17368644560:android:ae88a0f863840859f517d5",
+        "android_client_info": {
+          "package_name": "com.example.myfirebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17368644560-oogdjr6fp0bs7fvo8b08o1lv8p00jb13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCxQMYt7HOuhIBpoYMlMH2fHZ4JZBbXWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17368644560-oogdjr6fp0bs7fvo8b08o1lv8p00jb13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
