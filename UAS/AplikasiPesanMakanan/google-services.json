@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1003004536377",
+    "project_id": "udinusproject-55b9c",
+    "storage_bucket": "udinusproject-55b9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003004536377:android:d6d46e3fa886221ebe0fe8",
+        "android_client_info": {
+          "package_name": "com.company.rosyid.pesanmakananandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003004536377-g1j897ldfvii0q0dgb67l0vq0vm54la4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArzc_ZkwRu5Q5Afg1hnnPRhWG_nUJdq-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003004536377-g1j897ldfvii0q0dgb67l0vq0vm54la4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003004536377:android:8bee4be5d8ee9880be0fe8",
+        "android_client_info": {
+          "package_name": "com.ella.pesanmakananandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003004536377-g1j897ldfvii0q0dgb67l0vq0vm54la4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArzc_ZkwRu5Q5Afg1hnnPRhWG_nUJdq-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003004536377-g1j897ldfvii0q0dgb67l0vq0vm54la4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
